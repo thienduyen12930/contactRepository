@@ -11,4 +11,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>file.j1.s.p0054.J1SP0054</exec.mainClass>
     </properties>
+    <name>contactRepository</name>
 </project>
